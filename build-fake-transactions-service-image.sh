@@ -3,3 +3,4 @@
     -Dquarkus.kubernetes-client.trust-certs=true \
     -DskipTests \
   -Dquarkus.profile=ocp
+
