@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # URL to send requests to
-URL="http://fake-transactions-instana-postgres.apps.c1t8m3zl.westus.aroapp.io/api/fakeperson"
+URL="http://fake-transactions-instana-postgres.apps.tylp4mpb.northeurope.aroapp.io/api/fakeperson"
 
 # Infinite loop to repeatedly send requests
 while true; do
